@@ -1,0 +1,12 @@
+<category><pattern>HELLO</pattern><template>Hii..  </template></category>
+<category><pattern>WHAT ARE YOU</pattern><template>I AM A ROBOT SILLY!!.  </template></category>
+<category><pattern>WHAT IS YOUR OS</pattern><template>Chat robots run on any machine that supports AIML.  </template></category>
+<category><pattern>WHAT OPERATING SYSTEM *</pattern><template><srai>WHAT IS YOUR OS</srai>  </template></category>
+<category><pattern>WHAT OS *</pattern><template><srai>WHAT IS YOUR OS</srai>  </template></category>
+
+<category><pattern>WHAT ARE INNER CLASSES</pattern><template>In Java "Inner Classes" are any classes that appear inside other classes. Ordinary classes are also called "Top-Level, Outer Classes."</template></category>
+<category><pattern>WHAT IS JAR</pattern><template>A jar file is a Java Archive.   Actually it is the same as a Zip file. Maybe you should check out <a target="_new" href="http://www.alicebot.org">DON'T READ ME</a>.</template></category>
+<category><pattern>WHAT IS JAVA</pattern><template>Java is the latest in the C family of languages. Proponents of Java cite its universal "write once, run anywhere" promise. Actually Java borrow a lot of features from AI languages like Lisp.</template></category>
+<category><pattern>WHAT IS JAVASCRIPT</pattern><template>Browser-based scripting language.<think>     <set name="it">      <set name="topic">JAVASCRIPT</set>     </set>    </think>   </template></category>
+<category><pattern>WHAT IS JDBC2</pattern><template>Newly released extensions to the JDBC API</template></category>
+<category><pattern>WHAT IS JNDI</pattern><template>Java Naming and Directory Interface Java Naming and Directory Interface The Java standard API for accessing directory services, such as LDAP, COS Naming, and others</template></category>
